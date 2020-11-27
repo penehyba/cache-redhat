@@ -59,7 +59,7 @@
     <dependency>
       <groupId>org.arquillian.cube</groupId>
       <artifactId>arquillian-cube-openshift</artifactId>
-      <version>1.18.X</version>
+      <version>${version.arquillian-cube}</version>
       <scope>test</scope>
       <exclusions>
         <exclusion>
